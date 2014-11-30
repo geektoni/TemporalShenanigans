@@ -15,15 +15,15 @@ The player in his/her turn can:
   * Combacts with other players or entities;
   * Interact with object in the scenery;
 
-Also, the HUD interface is composed of:
+Also, the HUD interface will be composed of:
   * Life Bar;
   * Inventory with some (?) spaces;
   * A timer that show date and hour:minute:second (you will need it!);
 
 Last but not least, the player will have a special unique ability that is related with time 
-travel and time manipulation. Some abilities are gained by usign particular items, so,
-if you take one of these items from a player, you will gain two special abilities.
+travel and time manipulation. Some abilities will be gained by usign particular items, so,
+if you will take one of these items from a player, you will gain two time abilities.
 
 ### Authors information
-**Giovanni De Toni (@geektoni)**: giovanni.det@gmail.com
+**Giovanni De Toni (@geektoni)**: giovanni.det@gmail.com  
 **Edoardo Tessaro (@eralyen)**: 
