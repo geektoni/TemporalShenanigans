@@ -23,3 +23,7 @@ Also, the HUD interface is composed of:
 Last but not least, the player will have a special unique ability that is related with time 
 travel and time manipulation. Some abilities are gained by usign particular items, so,
 if you take one of these items from a player, you will gain two special abilities.
+
+### Authors information
+**Giovanni De Toni (@geektoni)**: giovanni.det@gmail.com
+**Edoardo Tessaro (@eralyen)**: 
