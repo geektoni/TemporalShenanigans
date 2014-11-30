@@ -26,4 +26,4 @@ if you will take one of these items from a player, you will gain two time abilit
 
 ### Authors information
 **Giovanni De Toni (@geektoni)**: giovanni.det@gmail.com  
-**Edoardo Tessaro (@eralyen)**: 
+**Edoardo Tessaro (@eralyen)**: edotex95@gmail.com

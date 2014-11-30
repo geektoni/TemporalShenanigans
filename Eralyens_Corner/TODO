@@ -1,0 +1,4 @@
+Classes:
+	*Player(Bot, Human);
+	*Leprechaun(Player);
+	*Carapace(Player);
