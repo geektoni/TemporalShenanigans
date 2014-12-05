@@ -1,4 +1,11 @@
 Classes:
 	*Player(Bot, Human);
-	*Leprechaun(Player);
-	*Carapace(Player);
+
+Create a decent interface standard.
+
+Minigame: 2 players play catch
+	Classes:
+		*Fakeambient
+		*Bot
+		*Human
+		*Player(Bot, Human)

@@ -1,0 +1,21 @@
+#Required by Geektony
+
+
+#Required by Eralyen
+
+//Moves the player towards the specified direction. Returns true if successful, false otherwise.
+bool ?.move(char direction, int playerID)	//direction = "N", "S", "E", "W".
+
+//Returns an unique ID for the player.
+int ?.getID();
+
+//The sesson's seed, calculated once, at the beginning of the game.
+private int seed;
+
+#Makefile standards:
+
+clean:
+	rm -rf *.o
+
+//Shortcuts
+c: clean
